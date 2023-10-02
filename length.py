@@ -4,4 +4,6 @@ def func1():
 def func2():
     perimeter = length * 4
     print(f"this is perimeter:{perimeter}")
+func1()
+func2()    
         
